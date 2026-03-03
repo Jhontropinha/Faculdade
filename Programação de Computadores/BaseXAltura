@@ -1,0 +1,4 @@
+base=float(input("digite uma base"))
+altura=float(input("digite uma altura"))
+media=(base*altura)
+print("a base X altura é" ,media)
