@@ -1,4 +1,0 @@
-nota1 = int(input('digite um numero:'))
-nota2 = int(input('digite outro numero:'))
-soma = (nota1+nota2) /2
-print('a media das notas é:', soma)
