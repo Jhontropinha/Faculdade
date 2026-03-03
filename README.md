@@ -1,2 +1,2 @@
 # Faculdade
-Trabalhos Feitos na minha Faculdade (UNIPE-PB)
+Projetos Feitos na minha Faculdade (UNIPE-PB)
