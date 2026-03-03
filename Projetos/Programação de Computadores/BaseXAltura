@@ -1,0 +1,5 @@
+base=float(input("digite uma base:"))
+altura=float(input("digite uma altura:"))
+#a linha de baixo é o calculo
+area=base*altura
+print("a area do retangulo é:" ,area)
